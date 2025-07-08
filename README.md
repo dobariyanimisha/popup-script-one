@@ -75,7 +75,7 @@
     <!-- Include the sales popup script -->
     <!-- Replace "your-website-id" with an actual website ID -->
     <script 
-    src="http://localhost:5000/api/websites/embed/686b50497ef71ce228e90d30.js"
+    src="http://github.com/dobariyanimisha/popup-script/main/popup.js"
     data-website-id="686b50497ef71ce228e90d30"
     async
     defer
